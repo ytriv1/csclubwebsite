@@ -1,7 +1,9 @@
 body {
     background-color: blue;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 #alex-image {
     border-radius: 99px;
+    margin-top: 10vh;
 }
